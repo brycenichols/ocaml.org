@@ -729,7 +729,7 @@ behavior with minimal loss of clarity. Use them.
 
 When `Option.bind` or `Result.bind` are used, they are often aliased into a
 custom binding operator, such as `let*`. However, it is also possible to use it
-as a binary operator, which is very often writen `>>=`. Using `bind` this way
+as a binary operator, which is very often written `>>=`. Using `bind` this way
 must be detailed because it is extremely popular in other functional programming
 languages, especially in Haskell.
 

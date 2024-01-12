@@ -18,7 +18,7 @@ source:
 <p>for instance:</p>
 <pre><code class="language-ocaml">!! &quot;hello 3&quot;
 </code></pre>
-<p>is rewriten to</p>
+<p>is rewritten to</p>
 <pre><code class="language-ocaml">!! (Start (H (E (L (L (O (Space (N3 (End))))))))
 </code></pre>
 <p>How is that generic ? We will present you a few examples.</p>
